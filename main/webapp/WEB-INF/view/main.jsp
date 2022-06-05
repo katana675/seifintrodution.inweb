@@ -21,9 +21,33 @@
 			</header>
 			<main>
 				<div class="lightarea">
-				
+					ウマ娘は楽しい
+					<div class="backblue">
+						<h3>小見出し１</h3>
+					</div>
+					<ul>
+						<li>ガチャが良い</li>
+						<li>ガチャの演出が良い</li>
+						<li>ガチャが無料で弾ける時がある</li>
+					</ul>
+					<div class="backblue">
+						<h3>小見出し２</h3>
+					</div>
+					<ul>
+						<li>キャラ育成が楽しい</li>
+						<li>キャラが可愛い</li>
+						<li>キャラシナリオが良い</li>
+					</ul>
 				</div>
-				
+				<div class="rightarea">
+					<div class="sidemenu">
+						<div class="backblue">サイドメニュー</div>
+						<p class="1">項目１</p>
+						<p class="2">項目２</p>
+						<p class="3">項目３</p>
+						<p class="4">項目４</p>
+					</div>
+				</div>
 			</main>
 		</body>
 	</html>
