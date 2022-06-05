@@ -5,6 +5,7 @@
 		<head>
 			<meta charset="UTF-8">
 			<title>自己紹介</title>
+			<link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/css/main.css">
 		</head>
 		<body>
 			<header>
@@ -16,7 +17,7 @@
 				<li><a href="">ナビ2</a>
 				<li><a href="">ナビ3</a>
 				<li><a href="https://localhost:8080/seifintrodution/page/profile">自己紹介</a>
-				<li><a href="">お問合せ</a></li>
+				<li><a href="https://localhost:8080/seifintrodution/page/mail">お問合せ</a></li>
 			</ul>
 			</header>
 			<main>
