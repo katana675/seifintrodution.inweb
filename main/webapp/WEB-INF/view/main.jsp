@@ -12,10 +12,10 @@
 			<p style="text-align:center"><img src="image/uwazima.jpg"></p>
 			<!-- 写真が出ない -->
 			<ul>
-				<li><a href="localhost:8080/seifintrodution/page/top">トップ</a>
+				<li><a href="https://localhost:8080/seifintrodution/page/top">トップ</a>
 				<li><a href="">ナビ2</a>
 				<li><a href="">ナビ3</a>
-				<li><a href="">自己紹介</a>
+				<li><a href="https://localhost:8080/seifintrodution/page/profile">自己紹介</a>
 				<li><a href="">お問合せ</a></li>
 			</ul>
 			</header>

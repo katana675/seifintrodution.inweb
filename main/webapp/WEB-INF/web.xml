@@ -13,6 +13,14 @@
     <servlet-name>toppage</servlet-name>
     <servlet-class>Main.Main</servlet-class>
   </servlet>
+   <servlet>
+    <servlet-name>seifintrodution</servlet-name>
+    <servlet-class>Profile.Profile</servlet-class>
+  </servlet>
+   <servlet>
+    <servlet-name>otoiawase</servlet-name>
+    <servlet-class>Mail.Mail</servlet-class>
+  </servlet>
   
   <servlet-mapping>
     <servlet-name>
@@ -20,6 +28,22 @@
     </servlet-name>
     <url-pattern>
       /page/top
+    </url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+    <servlet-name>
+      seifintrodution
+    </servlet-name>
+    <url-pattern>
+      /page/profile
+    </url-pattern>
+    </servlet-mapping>
+     <servlet-mapping>
+    <servlet-name>
+      otoiawase
+    </servlet-name>
+    <url-pattern>
+      /page/mail
     </url-pattern>
     </servlet-mapping>
 </web-app>
